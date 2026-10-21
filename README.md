@@ -1,10 +1,13 @@
-#Aaditya Patil
+# Aaditya Patil
 
-##About me
+## About me
 I am a student at upgrad school of technology, currently learning Git and GitHub
 
-##Skills 
+## Skills 
 -Communication 
 -Problem Solving
 -Basic Git
 
+## Projects
+-This is the git hub project 
+-This is upgrad school of technology
