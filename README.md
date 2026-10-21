@@ -11,3 +11,6 @@ I am a student at upgrad school of technology, currently learning Git and GitHub
 ## Projects
 -This is the git hub project 
 -This is upgrad school of technology
+
+## Contact
+-Email: iaadityapatil@gmail.com
